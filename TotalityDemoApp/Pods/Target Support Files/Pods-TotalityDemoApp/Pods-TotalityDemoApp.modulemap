@@ -1,0 +1,6 @@
+framework module Pods_TotalityDemoApp {
+  umbrella header "Pods-TotalityDemoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

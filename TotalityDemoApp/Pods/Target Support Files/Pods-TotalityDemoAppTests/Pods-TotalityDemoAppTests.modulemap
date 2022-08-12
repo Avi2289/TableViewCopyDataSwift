@@ -1,0 +1,6 @@
+framework module Pods_TotalityDemoAppTests {
+  umbrella header "Pods-TotalityDemoAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
